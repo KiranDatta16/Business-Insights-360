@@ -24,7 +24,7 @@ Finance Metrics, KPIS and their trend (compared either with Last Year or Targets
 
 
 --------------------------------------
-Inights:
+Insights:
 
 1. High Deductions:
 Pre-Invoice deduction and Total Post invoice deductions constitutes 49.5% of sales. This suggests that a substantial portion of the revenue is subject to deductions, potentially impacting profitability.
