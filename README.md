@@ -1,9 +1,8 @@
 # Business-Insights-360
 Live Dashboard Link: 
-
 Video Presentation Link: https://youtu.be/tjgHeYkZlGc
-
 Presentation Link (ppt) : https://1drv.ms/p/c/f9ff054a9b38c3de/EcJ8D82e8gNImsCWNPssPU0B9JGKLQM2XpscK8uaNQ1N8g?e=nNwhw7
+
 ------------------------------
 AtliQ Hardwares is a rapidly growing company, they decided to incorportate data driven decision making process to gain market share ahead of their competetiors.
 So this project is all about gnerating relevant insights for the stakeholders from every aspect of the supply chain like sales,marketing,finance and executive tracking performnce across all regions, markets, products and consumers enabling a enhanced and quick decision making.
