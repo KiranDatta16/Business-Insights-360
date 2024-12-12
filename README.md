@@ -10,11 +10,11 @@ Tech used:
 -------------
 
 1. Mysql Workbench for data
-2.Power BI for visualisation and dashboards.
-3.Power Query for data cleaning and transformation
-4.Data Analysis Expresions (DAX) for measures and calculated columns.
-5.M Language to create date related columns.
-6.Power BI Service and gateway for report sharing.
+2. Power BI for visualisation and dashboards.
+3. Power Query for data cleaning and transformation
+4. Data Analysis Expresions (DAX) for measures and calculated columns.
+5. M Language to create date related columns.
+6. Power BI Service and gateway for report sharing.
 
 ----------------------------------------------------------------
 Dasbhoards:
