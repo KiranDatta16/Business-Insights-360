@@ -3,8 +3,6 @@ Live Dashboard Link:
 
 Video Presentation Link: https://youtu.be/tjgHeYkZlGc
 
-Presentation Link (ppt) : https://1drv.ms/p/c/f9ff054a9b38c3de/EcJ8D82e8gNImsCWNPssPU0B9JGKLQM2XpscK8uaNQ1N8g?e=nNwhw7
-
 ------------------------------
 AtliQ Hardwares is a rapidly growing company, they decided to incorportate data driven decision making process to gain market share ahead of their competetiors.
 So this project is all about gnerating relevant insights for the stakeholders from every aspect of the supply chain like sales,marketing,finance and executive tracking performnce across all regions, markets, products and consumers enabling a enhanced and quick decision making.
@@ -12,12 +10,13 @@ So this project is all about gnerating relevant insights for the stakeholders fr
 Tech used:
 -------------
 
-1. Mysql Workbench for data
+1. Mysql Workbench for data loading
 2. Power BI for visualisation and dashboards.
-3. Power Query for data cleaning and transformation
-4. Data Analysis Expresions (DAX) for measures and calculated columns.
-5. M Language to create date related columns.
-6. Power BI Service and gateway for report sharing.
+3. Data Modelling and creating relations between tables.
+4. Power Query for data cleaning and transformation
+5. Data Analysis Expresions (DAX) for measures and calculated columns.
+6. M Language to create date related columns.
+7. Power BI Service and gateway for report sharing.
 
 ----------------------------------------------------------------
 Dasbhoards:
