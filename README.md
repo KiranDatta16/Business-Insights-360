@@ -39,7 +39,7 @@ This dashboard focuses on three key metrics Forecast Accuracy %, Net Error, and 
 
 Executive View:
 -------------------------------------------------
-A consolidated view of all 
+This dashboard is a consolidation of various KPIs and visuals from the other dashboards. Additionally,this dashboard helps in understanding the revenue contribution of Sub_Zones, Atliq's market share in each of this sub_zone. Top Products and customers by revenue and their. Market share trend between Atli  
 
 --------------------------------------
 Insights:
