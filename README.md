@@ -26,13 +26,20 @@ Finance View:
 Key Performance Indicators (KPIs) for revenue metrics, including their year-over-year (YoY) or target-based trend analysis, Profit and Loss Statement, identification of top and bottom performing customers and products based on net sales.
 
 Sales View:
+------------------------------------------------------------------------
 This dashboard provides a comprehensive analysis of customer performance across key metrics, empowering data-driven decision-making at the customer level. Analyses performance based on Net Sales, Gross Margin, and Gross Margin % to ientify top-performing and underperforming customers. Evaluates market performance in each region to assess regional strengths and weaknesses. Compares Gross Margin % and Cost of Goods Sold (COGS) share within the final net sale price to optimize product pricing for maximum profitability.
 
 Marketing View:
+-------------------------
 This dashboard provides a comprehensive analysis of product performance across key metrics, including Net Sales, Gross Margin, Operational Expenses, and Net Profit, segmented by region and market. It empowers data-driven decision-making by identifying top and bottom products and regions. Utilizes a matrix plotting Net Sales against Gross Margin % to visually assess product performance within each segment and category. Data drill-down functionality allows to move between the product hieararchy. Finally marketing identifies products that could benefit from enhanced marketing efforts to boost sales and profitability.
 
 Supply Chain-View:
+-------------------------------------------
 This dashboard focuses on three key metrics Forecast Accuracy %, Net Error, and Absolute Error, to optimize inventory management and minimize stock-outs and excess inventory. Analyzes customers and products across three parameters to assess the risk associated with them.Visualizes trends for Net Error and Forecast Accuracy % across the selected year and the previous year. Generates insights into forecast accuracy and error levels, allowing for continuous improvement in inventory planning.
+
+Executive View:
+-------------------------------------------------
+A consolidated view of all 
 
 --------------------------------------
 Insights:
