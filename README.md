@@ -43,6 +43,8 @@ This dashboard consolidates key performance indicators (KPIs) and visualizations
 
 --------------------------------------
 Insights:
+------------------------------------------------
+
 
 1. High Deductions:
 Pre-Invoice deduction and Total Post invoice deductions constitutes 49.5% of sales. This suggests that a substantial portion of the revenue is subject to deductions, potentially impacting profitability.
