@@ -7,7 +7,7 @@ Video Presentation Link: https://youtu.be/tjgHeYkZlGc
 AtliQ Hardwares is a rapidly growing company, they decided to incorportate data driven decision making process to gain market share ahead of their competetiors.
 So this project is all about gnerating relevant insights for the stakeholders from every aspect of the supply chain like sales,marketing,finance and executive tracking performnce across all regions, markets, products and consumers enabling a enhanced and quick decision making.
 
-Tech learning Highlights:
+Key Technical Learnings:
 -------------
 
 1. Mysql Workbench for data loading
@@ -16,7 +16,7 @@ Tech learning Highlights:
 4. Star Schema for Database organistion.
 5. Data Analysis Expresions (DAX) for measures and calculated columns.
 6. M Language to create date table.
-7. Toggle Switch to 
+7. Toggle button to switch between visuals
 8. Power BI Service and gateway for report sharing.
 
 ----------------------------------------------------------------
@@ -39,7 +39,7 @@ This dashboard focuses on three key metrics Forecast Accuracy %, Net Error, and 
 
 Executive View:
 -------------------------------------------------
-This dashboard is a consolidation of various KPIs and visuals from the other dashboards. Additionally,this dashboard helps in understanding the revenue contribution of Sub_Zones, Atliq's market share in each of this sub_zone. Top Products and customers by revenue and their. Market share trend between Atli  
+This dashboard consolidates key performance indicators (KPIs) and visualizations from other dashboards to provide a comprehensive overview It facilitates understanding of Revenue contribution, showing how each sub-zone contributes to overall revenue and Atliq's market penetration within each sub-zone. Top revenue-generating products and customers to identify the key drivers of revenue. Tracks Atliq's market share against competitors over time to assess market standing and competitive dynamics. This dashboard empowers executives and stakeholders to make data-driven decisions.
 
 --------------------------------------
 Insights:
