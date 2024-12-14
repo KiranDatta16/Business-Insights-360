@@ -23,6 +23,8 @@ Key Technical Learnings:
 Dasbhoards:
 ----------------------------------------------------------------
 Finance View:
+------------------------------------------------------
+
 Key Performance Indicators (KPIs) for revenue metrics, including their year-over-year (YoY) or target-based trend analysis, Profit and Loss Statement, identification of top and bottom performing customers and products based on net sales.
 
 Sales View:
