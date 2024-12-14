@@ -4,23 +4,23 @@ Live Dashboard Link: https://project.novypro.com/fyH6Lf
 Video Presentation Link: https://youtu.be/tjgHeYkZlGc
 
 ------------------------------
-AtliQ Hardwares is a rapidly growing company, they decided to incorportate data driven decision making process to gain market share ahead of their competetiors.
-So this project is all about gnerating relevant insights for the stakeholders from every aspect of the supply chain like sales,marketing,finance and executive tracking performnce across all regions, markets, products and consumers enabling a enhanced and quick decision making.
+AtliQ Hardware is a rapidly growing company, they decided to incorporate data driven decision making process to gain market share ahead of their competitors.
+So this project is all about generating relevant insights for the stakeholders from every aspect of the supply chain like sales, marketing,finance and executive tracking performance across all regions, markets, products and consumers enabling a enhanced and quick decision making.
 
 Key Technical Learnings:
 -------------
 
-1. Mysql Workbench for data loading
+1. MySQL Workbench to load data into the dashboard.
 2. Power BI for visualisation and dashboards.
 3. Power Query for data cleaning, appending and merging tables.
-4. Star Schema for Database organistion.
-5. Data Analysis Expresions (DAX) for measures and calculated columns.
+4. Star Schema for Database organisation.
+5. Data Analysis Expressions (DAX) for measures and calculated columns.
 6. M Language to create date table.
 7. Toggle button to switch between visuals
 8. Power BI Service and gateway for report sharing.
 
 ----------------------------------------------------------------
-Dasbhoards:
+Dasboards:
 ----------------------------------------------------------------
 Finance View:
 ------------------------------------------------------
@@ -29,11 +29,11 @@ Key Performance Indicators (KPIs) for revenue metrics, including their year-over
 
 Sales View:
 ------------------------------------------------------------------------
-This dashboard provides a comprehensive analysis of customer performance across key metrics, empowering data-driven decision-making at the customer level. Analyses performance based on Net Sales, Gross Margin, and Gross Margin % to ientify top-performing and underperforming customers. Evaluates market performance in each region to assess regional strengths and weaknesses. Compares Gross Margin % and Cost of Goods Sold (COGS) share within the final net sale price to optimize product pricing for maximum profitability.
+This dashboard provides a comprehensive analysis of customer performance across key metrics, empowering data-driven decision-making at the customer level. Analyses performance based on Net Sales, Gross Margin, and Gross Margin % to identify top-performing and underperforming customers. Evaluates market performance in each region to assess regional strengths and weaknesses. Compares Gross Margin % and Cost of Goods Sold (COGS) share within the final net sale price to optimize product pricing for maximum profitability.
 
 Marketing View:
 ----------------------------------------------
-This dashboard provides a comprehensive analysis of product performance across key metrics, including Net Sales, Gross Margin, Operational Expenses, and Net Profit, segmented by region and market. It empowers data-driven decision-making by identifying top and bottom products and regions. Utilizes a matrix plotting Net Sales against Gross Margin % to visually assess product performance within each segment and category. Data drill-down functionality allows to move between the product hieararchy. Finally marketing identifies products that could benefit from enhanced marketing efforts to boost sales and profitability.
+This dashboard provides a comprehensive analysis of product performance across key metrics, including Net Sales, Gross Margin, Operational Expenses, and Net Profit, segmented by region and market. It empowers data-driven decision-making by identifying top and bottom products and regions. Utilizes a matrix plotting Net Sales against Gross Margin % to visually assess product performance within each segment and category. Data drill-down functionality allows to move between the product hierarchy. Finally marketing identifies products that could benefit from enhanced marketing efforts to boost sales and profitability.
 
 Supply Chain-View:
 -------------------------------------------
